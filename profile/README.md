@@ -1,4 +1,4 @@
 ## Welcome to the Secure AI and Autonomy Laboratory
 TODO: intro.
 ### Students
-TODO: helpful resources.
+Please refer to the [lab guidelines](https://github.com/SecureAIAutonomyLab/docs) for more information.
